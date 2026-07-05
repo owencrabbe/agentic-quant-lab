@@ -1,0 +1,29 @@
+[
+  {
+    "strategy": "ORB 15m open-range breakout (1:1 R, exit by 11:00)",
+    "trades": 322,
+    "win_rate": 0.4752,
+    "expectancy_R": -0.0618,
+    "profit_factor": 0.82,
+    "maxDD_R": -28.67,
+    "totalR": -19.92
+  },
+  {
+    "strategy": "ICT OTE 0.705 retracement (1:2 R, exit by 15:30)",
+    "trades": 192,
+    "win_rate": 0.3125,
+    "expectancy_R": -0.2536,
+    "profit_factor": 0.62,
+    "maxDD_R": -47.69,
+    "totalR": -48.69
+  },
+  {
+    "strategy": "Midday VWAP fade (2 ATR extension, target VWAP)",
+    "trades": 316,
+    "win_rate": 0.2848,
+    "expectancy_R": -0.1574,
+    "profit_factor": 0.78,
+    "maxDD_R": -56.68,
+    "totalR": -49.75
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "strategy": "V2a Regime-filtered ORB (1:2 R)",
+    "trades": 171,
+    "win_rate": 0.5848,
+    "expectancy_R": 0.2139,
+    "profit_factor": 1.84,
+    "maxDD_R": -4.76,
+    "totalR": 36.59
+  },
+  {
+    "strategy": "V2b Regime-filtered ICT-OTE (1:2 R)",
+    "trades": 66,
+    "win_rate": 0.3939,
+    "expectancy_R": -0.0544,
+    "profit_factor": 0.9,
+    "maxDD_R": -6.77,
+    "totalR": -3.59
+  },
+  {
+    "strategy": "V2c Open-drive momentum LONG-only uptrend (hold to close, stop=OR low)",
+    "trades": 118,
+    "win_rate": 0.5085,
+    "expectancy_R": 0.2982,
+    "profit_factor": 1.69,
+    "maxDD_R": -6.0,
+    "totalR": 35.19
+  }
+]
